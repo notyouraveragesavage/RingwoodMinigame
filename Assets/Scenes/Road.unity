@@ -586,8 +586,16 @@ PrefabInstance:
       value: RoadScene
       objectReference: {fileID: 0}
     - target: {fileID: 2091671001173191605, guid: cfdc8d1d91719844f827f79a31b12819, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 125
+      objectReference: {fileID: 0}
+    - target: {fileID: 2091671001173191605, guid: cfdc8d1d91719844f827f79a31b12819, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 125
+      objectReference: {fileID: 0}
+    - target: {fileID: 2091671001173191605, guid: cfdc8d1d91719844f827f79a31b12819, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -0.46806
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2091671001173191605, guid: cfdc8d1d91719844f827f79a31b12819, type: 3}
       propertyPath: m_LocalPosition.y
